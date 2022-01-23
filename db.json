@@ -1,0 +1,14 @@
+{
+  "notes-list": [
+    {
+      "id": 1,
+      "title": "Lord of the Rings",
+      "author": "J. R. R. Tolkien"
+    },
+    {
+      "id": 2,
+      "title": "King of Hell",
+      "author": "S. B. Desai"
+    }
+  ]
+}
